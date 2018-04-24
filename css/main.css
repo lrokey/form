@@ -4,7 +4,14 @@
    Author's custom styles
    ========================================================================== */
 
+legend{
+	margin-bottom: 0;
+}
 
+#form-title{
+	font-weight: bold;
+	text-align: center;
+}
 
 
 

@@ -1,0 +1,16 @@
+TODO
+
+* Get the layout right first (yay gridforms!!)
+* add IDS for easy validations
+* Add javaScript validations (JIT and on submit. yay parsley!)
+* ability to print to pdf
+* digital signatures
+* make pretty
+
+
+
+NOTES:
+
+* No dropdowns. Use autocomplete textboxes. Validate user choices.
+* make sure its accessible. (Section 508)
+* Help Text??? On hover, or....
