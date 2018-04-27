@@ -1,6 +1,6 @@
 TODO
 
-* Get the layout right first (yay gridforms!!)
+* Get the layout right first (yay gridforms!!). DONE
 * add IDS for easy validations
 * Add javaScript validations (JIT and on submit. yay parsley!)
 * ability to print to pdf
